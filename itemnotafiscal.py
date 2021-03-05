@@ -1,13 +1,3 @@
-"""
-    Módulo itemnotafiscal 
-    Classe ItemNotaFiscal 
-    Atributos :
-        id         - informado
-        sequencial - informado
-        quantidade - informado
-        produto    - informado
-        valor      - calculado.            
-"""
 from produto import Produto
 
 class ItemNotaFiscal():
