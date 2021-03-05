@@ -1,12 +1,3 @@
-"""
-    Módulo produto
-    Classe Produto
-    Atributos :
-        id            - informado
-        codigo        - informado
-        descricao     - informado
-        valorUnitario - informado. 
-"""
 class Produto():
 
     def __init__(self, id, codigo, descricao, valorUnitario):
